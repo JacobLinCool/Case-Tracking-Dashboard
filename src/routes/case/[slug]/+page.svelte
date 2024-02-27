@@ -57,5 +57,5 @@
 			</li>
 		{/each}
 	</ul>
-	<div class="h-8 w-full"></div>
+	<div class="h-32 w-full"></div>
 </div>
