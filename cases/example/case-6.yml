@@ -1,0 +1,38 @@
+name: Library Cleanliness Concerns
+description: Patrons have reported unsatisfactory cleanliness levels in various sections of the library, affecting study spaces and public areas.
+tags:
+    - Library
+    - Public Health
+status: open
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          Concerns have been raised by library patrons regarding the cleanliness of the library, particularly in study spaces and common areas. Reports include accumulation of trash, unclean study desks, and overall dust and debris in the environment. These concerns are particularly pressing given the current health guidelines and the importance of maintaining a clean environment to prevent health risks.
+
+          The issue has been raised by both students and faculty, indicating a widespread concern about the impact of these conditions on the ability to study and work effectively in the library.
+      date: "2024-02-05"
+    - title: Initial Response and Investigation
+      content: |
+          Upon receiving reports of cleanliness concerns within the library, the facilities management team has initiated a comprehensive investigation to assess the situation. This investigation includes an audit of the current cleaning protocols, interviews with library staff about their daily cleaning routines, and a survey of the areas reported to be most affected.
+
+          Preliminary findings suggest that the cleaning schedules may not be adequately aligned with the usage patterns of the library, leading to periods where trash and debris accumulate faster than they can be addressed by the current staff. Additionally, there has been a noted shortage of cleaning supplies and equipment, which may be contributing to the problem.
+      date: "2024-02-07"
+    - title: Stakeholder Meeting
+      content: |
+          A meeting was convened with stakeholders from the library management team, facilities management, student representatives, and faculty advisors to discuss the findings of the initial investigation and to brainstorm potential solutions. The meeting highlighted the need for a multifaceted approach to address the cleanliness concerns, including revising cleaning schedules, increasing the frequency of deep cleaning operations, and exploring the possibility of hiring additional cleaning staff.
+
+          The discussion also covered the importance of community engagement in maintaining a clean environment, with proposals for awareness campaigns aimed at encouraging library patrons to contribute to the cleanliness of their shared spaces.
+      date: "2024-02-10"
+    - title: Implementation of New Measures
+      content: |
+          Following the stakeholder meeting, a series of new measures have been implemented to address the cleanliness concerns in the library. These measures include an overhaul of the cleaning schedule to ensure more frequent attention to high-traffic areas and the procurement of additional cleaning supplies and equipment to enable thorough cleaning. A pilot program has also been launched to increase the staffing levels during peak periods, with a focus on immediate cleanup of spills and debris.
+
+          Alongside these operational changes, an awareness campaign has been rolled out, featuring signage throughout the library encouraging patrons to keep their areas clean and to dispose of trash properly. The campaign also includes digital reminders sent via the library's email list and social media channels, emphasizing the role of each patron in maintaining a clean and healthy environment.
+      date: "2024-02-15"
+    - title: Ongoing Evaluation and Feedback
+      content: |
+          The library and facilities management teams are closely monitoring the impact of the newly implemented measures on the cleanliness of the library. An initial survey of library patrons has shown a positive response to the changes, with many noting an improvement in the cleanliness of study spaces and common areas. However, the teams recognize the importance of ongoing evaluation and are committed to making further adjustments as needed based on feedback from the library community and continuous monitoring of the library's condition.
+
+          The situation remains under review, with additional feedback mechanisms being introduced, including a dedicated feedback form on the library's website and periodic focus groups with library patrons to gather detailed insights into the effectiveness of the cleanliness initiatives and to identify areas for further improvement.
+      date: "2024-02-20"

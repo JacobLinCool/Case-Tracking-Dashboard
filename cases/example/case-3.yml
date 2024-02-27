@@ -1,0 +1,38 @@
+name: Email Access Issue
+description: A group of students are experiencing delays in receiving emails through the university's email system.
+tags:
+    - Email
+    - Communication
+status: open
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          Several students have reported experiencing significant delays in receiving emails on their university accounts.
+
+          This issue seems to affect both sending and receiving emails.
+      date: "2024-02-15"
+    - title: Investigating
+      content: |
+          The IT department has acknowledged the issue and is investigating potential causes.
+
+          Preliminary investigations suggest a problem with the mail server's queue management.
+      date: "2024-02-16"
+    - title: Server Maintenance
+      content: |
+          To address the issue, the IT department has scheduled maintenance on the email server to optimize its performance.
+
+          The maintenance is expected to occur overnight to minimize disruption.
+      date: "2024-02-18"
+    - title: Monitoring Post-Maintenance
+      content: |
+          Following the maintenance, the IT department is closely monitoring the email system's performance.
+
+          Students have been asked to report any continued delays in email delivery.
+      date: "2024-02-19"
+    - title: Ongoing Issues
+      content: |
+          Despite the maintenance, some students are still reporting delays with their email.
+
+          The IT department is considering additional measures to resolve the issue.
+      date: "2024-02-25"

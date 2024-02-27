@@ -1,0 +1,38 @@
+name: Moodle Performance Issue
+description: Faculty and students report slow loading times and occasional timeouts on the Moodle platform.
+tags:
+    - Moodle
+    - E-Learning
+status: closed
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          Complaints have been received from both faculty and students regarding slow loading times and occasional timeouts when accessing the Moodle e-learning platform.
+
+          These issues are disrupting the online learning experience.
+      date: "2024-01-10"
+    - title: Investigating
+      content: |
+          The IT department has identified the Moodle performance issue and is investigating the cause.
+
+          Early analysis suggests that the problems may be related to recent updates and increased usage.
+      date: "2024-01-12"
+    - title: Performance Optimization
+      content: |
+          The IT department has implemented several performance optimizations, including upgrading server resources and optimizing the database.
+
+          These changes are aimed at addressing the slow loading times and timeouts.
+      date: "2024-01-15"
+    - title: Monitoring Post-Optimization
+      content: |
+          Following the optimizations, the IT department is monitoring Moodle's performance closely.
+
+          Feedback from faculty and students suggests a significant improvement in loading times and overall platform responsiveness.
+      date: "2024-01-17"
+    - title: Case Closed
+      content: |
+          With the successful implementation of performance optimizations and positive feedback from the university community, the Moodle performance issue is now considered resolved.
+
+          The case is closed, but the IT department will continue to monitor the platform to prevent future issues.
+      date: "2024-01-20"

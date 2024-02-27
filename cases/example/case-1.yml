@@ -1,0 +1,28 @@
+name: Library Network Outage
+description: An unexpected network outage has disrupted access to digital resources and internet connectivity in the library.
+tags:
+    - Networking
+    - Library
+status: closed
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          The library staff reported a sudden and complete network outage this morning, affecting all digital services, including access to online journals, databases, and general internet connectivity. This outage has severely disrupted students' and faculty members' ability to conduct research and access learning materials. Preliminary assessments were unable to identify the immediate cause of the outage, and the urgency to restore access is high given the ongoing mid-term exams and assignments.
+      date: "2024-02-05"
+    - title: Initial Assessment and Response
+      content: |
+          The IT department's initial assessment suggested the outage might be related to a failed firmware update on the core network switches that serve the library. An emergency response team was assembled to tackle the issue, comprising network engineers and support staff. They worked on isolating the problem by segmenting the network to determine the extent of the damage and identifying the fastest route to restoration. In parallel, temporary measures were implemented to provide limited internet access through alternative network paths, ensuring that critical library functions could continue with minimal disruption.
+      date: "2024-02-06"
+    - title: Root Cause Analysis and Repair
+      content: |
+          Detailed analysis confirmed the outage was indeed caused by a firmware update that introduced a compatibility issue with the existing network configuration, leading to the failure of core routing functions. The IT department collaborated with the vendor to secure a patch and began the process of rolling back the affected systems to a stable state. This work was carried out overnight to minimize further disruption. Comprehensive testing was conducted to ensure the network's stability and performance met operational requirements. Additionally, the IT department developed a new protocol for future updates, including more rigorous pre-deployment testing and establishing a rapid rollback procedure.
+      date: "2024-02-07"
+    - title: Restoration and Follow-Up
+      content: |
+          By the early hours of the morning, full network functionality was restored to the library. The IT department issued communications to library staff and university departments, informing them of the resolution. A follow-up meeting was scheduled with library management to review the incident, discuss the outcome, and plan additional measures to prevent similar occurrences. Feedback sessions were also organized with affected users to address any ongoing concerns and to advise on accessing alternative digital resources should they encounter any future disruptions.
+      date: "2024-02-08"
+    - title: Case Closed
+      content: |
+          With the network fully restored and additional safeguards in place, the library network outage case was officially closed. The IT department and library staff will continue to monitor the network closely over the coming weeks to ensure its stability and to make any necessary adjustments. This incident has underscored the importance of robust network infrastructure and the need for effective incident management protocols to address unforeseen disruptions promptly. The collaborative effort between departments and the swift response to user needs have been commended by the university administration.
+      date: "2024-02-09"

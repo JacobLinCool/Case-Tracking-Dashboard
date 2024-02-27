@@ -1,0 +1,36 @@
+name: Online Portal Access Issue
+description: Students are unable to access the university's online learning portal during peak hours.
+tags:
+    - E-Learning
+    - Portal
+status: open
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          Reports have come in from students about difficulties accessing the university's online learning portal during peak hours, specifically between 8 AM and 10 AM.
+
+          The issue seems to affect various devices and browsers.
+      date: "2024-02-10"
+    - title: Investigating
+      content: |
+          The IT support team has started investigating the access issues reported by students.
+
+          Initial findings suggest a potential overload of the server due to high traffic.
+      date: "2024-02-11"
+    - title: Server Capacity Review
+      content: |
+          The IT team is reviewing server capacity and performance metrics to determine if upgrades or optimizations are required to handle peak load times more effectively.
+      date: "2024-02-12"
+    - title: Testing Solutions
+      content: |
+          To address the issue, the IT team is testing various solutions, including server load balancing and increasing server resources.
+
+          A pilot test is scheduled during the next peak period to assess improvements.
+      date: "2024-02-14"
+    - title: Monitoring Feedback
+      content: |
+          Following the implementation of initial solutions, the IT team is collecting feedback from students on the accessibility of the online learning portal during peak hours.
+
+          The situation is still being monitored to ensure that access issues have been adequately addressed.
+      date: "2024-02-22"

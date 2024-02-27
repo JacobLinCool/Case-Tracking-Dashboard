@@ -1,0 +1,32 @@
+name: Printer Connectivity Issue
+description: Several faculty members have reported that they are unable to connect to the network printers from their offices.
+tags:
+    - Networking
+    - Printer
+status: open
+officer: Jacob
+events:
+    - title: Case Created
+      content: |
+          Faculty members have reported issues with connecting to the network printers from their offices.
+
+          They are using both Mac and Windows computers, and the printers do not appear in their list of available devices.
+      date: "2024-02-20"
+    - title: Investigating
+      content: |
+          The IT team has been notified about the issue and is currently investigating.
+
+          Initial checks suggest there may be an issue with the printer server's IP configuration.
+      date: "2024-02-21"
+    - title: Updated Progress
+      content: |
+          The IT team has updated the printer server's IP configuration and restarted the server.
+
+          They are now in the process of testing the connectivity from different offices.
+      date: "2024-02-22"
+    - title: Feedback Requested
+      content: |
+          The IT team has asked the faculty members to test the printer connectivity from their offices and report back.
+
+          Awaiting responses from the faculty members.
+      date: "2024-02-24"
